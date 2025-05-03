@@ -24,7 +24,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## Dashboard
 ![blinkit Sales Dashboard](https://github.com/user-attachments/assets/a51429c8-b59d-4c19-a357-03b541bf3d83)
 
-## 
+## Key Features and Visualizations:
 
 - Total Sales by Fat Content:
 	-  Objective: Analyze the impact of fat content on total sales.
